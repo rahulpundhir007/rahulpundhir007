@@ -12,7 +12,7 @@
 <h3 align="center">Full Stack Developer | DSA Enthusiast | B.Tech CSE @ GLA University</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulpundhir&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Rahul-Pundhir&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 # 🌐 Connect with Me:
 
-<a href="https://www.linkedin.com/in/hardeep-bainiwal-9142272b8/" target="_blank">
+<a href="https://www.linkedin.com/in/rahul-pundhir-350159276/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -53,9 +53,9 @@
 ## 📊 Competitive Programming Stats
 
 ### 🔸 LeetCode
-[![LeetCode](https://img.shields.io/badge/LeetCode-hardeepbainiwal-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/hardeepbainiwal/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rahul_Pundhir-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Rahul_Pundhir/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hardeepbainiwal?theme=light&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul_Pundhir?theme=light&font=baloo)
 
 ---
 
@@ -69,15 +69,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardeepbainiwal&show_icons=true&theme=midnight-purple"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=hardeepbainiwal&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Pundhir&show_icons=true&theme=midnight-purple"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Rahul-Pundhir&theme=midnight-purple"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyuu29&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Pundhir&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 
 <h3 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -120,19 +120,4 @@
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=footer" width="100%"/>
-</p>## Hi there 👋
-
-<!--
-**rahulpundhir007/rahulpundhir007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
