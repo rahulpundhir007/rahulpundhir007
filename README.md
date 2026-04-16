@@ -9,18 +9,18 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Rahul Pundhir</h1>
-<h3 align="center">Full Stack Developer | DSA Enthusiast | B.Tech CSE @ GLA University</h3>
+<h3 align="center">Full Stack Developer | B.Tech CSE @ GLA University | Problem Solver 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulpundhir007&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=rahulpundhir8&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 # 💫 About Me:
 💻 B.Tech CSE @ GLA University  
-🚀 Full Stack Developer exploring scalable backend systems  
-🔥 Solved 600+ DSA problems on LeetCode & Codeforces  
+🚀 Exploring Web Development & Backend Systems  
+🔥 Actively solving DSA problems on LeetCode & Codeforces  
 
 ---
 
@@ -50,59 +50,55 @@
 
 ---
 
-## 📊 Coding Profiles & Stats
 ## 📊 Competitive Programming Stats
 
 <div align="center">
-  <table border="0" width="100%">
+
+  <!-- ✅ YOUR IMAGE ADDED -->
+  <img src="assets/streak.png" width="80%" alt="Streak Stats"/>
+
+  <br/><br/>
+
+  <table border="0">
     <tr>
-      <!-- LEETCODE (BIGGER) -->
-      <td width="60%" align="center">
-        <a href="https://leetcode.com/u/Rahul_Pundhir/">
-          <img src="https://leetcard.jacoblin.cool/Rahul_Pundhir?theme=dark&font=baloo" width="110%" alt="LeetCode" />
+      <td width="50%" align="center">
+        <a href="https://leetcode.com/rahul_pundhir">
+          <img src="https://leetcard.jacoblin.cool/rahul_pundhir?theme=dark&font=baloo" width="110%" alt="LeetCode" />
         </a>
       </td>
-
-      <!-- GFG -->
-      <td width="40%" align="center">
+      <td width="50%" align="center">
         <a href="https://www.geeksforgeeks.org/profile/rahulpundhir">
-          <img src="https://gfgstatscard.vercel.app/rahulpundhir" width="95%" 
+          <img src="https://gfgstatscard.vercel.app/rahulpundhir" width="110%" 
                onerror="this.src='https://img.shields.io/badge/GeeksforGeeks-rahulpundhir-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white';" alt="GFG" />
         </a>
       </td>
     </tr>
   </table>
 
-  <br/>
 </div>
-
----
-
-### 🔹 Codeforces
-[![Codeforces](https://img.shields.io/badge/Codeforces-rahulpundhir8-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/rahulpundhir8)
-
-![Codeforces Stats](https://cf.leed.at?id=rahulpundhir8)
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulpundhir007&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulpundhir8&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 
----
+<h3 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</h3>
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Turn+challenges....;into+opportunities.....;+with+code..." alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Turn+challenges....;into+opportunities.....;+with+code..." />
     </h1>
 </div>
 
----
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thank+You+for+Visiting+My+Profile" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thank+You+for+Visiting+My+Profile" />
 </p>
 
 ⭐ *Star* some repositories if you find them useful! Happy Coding! 🚀
