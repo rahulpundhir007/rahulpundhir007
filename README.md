@@ -52,10 +52,41 @@
 
 ## 📊 Competitive Programming Stats
 
-### 🔸 LeetCode
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rahul_Pundhir-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Rahul_Pundhir/)
+<div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul_Pundhir?theme=light&font=baloo)
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🔸 LeetCode
+<a href="https://leetcode.com/u/Rahul_Pundhir/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Rahul_Pundhir-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/Rahul_Pundhir?theme=light&font=baloo"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🟢 GeeksforGeeks
+<a href="https://www.geeksforgeeks.org/profile/rahulpundhir" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Rahul_Pundhir-green?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<br/>
+
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=rahulpundhir"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
