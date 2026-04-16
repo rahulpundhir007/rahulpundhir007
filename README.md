@@ -54,16 +54,19 @@
 ## 📊 Competitive Programming Stats
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td width="50%" align="center">
+      <!-- LEETCODE (BIGGER) -->
+      <td width="60%" align="center">
         <a href="https://leetcode.com/u/Rahul_Pundhir/">
-          <img src="https://leetcard.jacoblin.cool/Rahul_Pundhir?theme=dark&font=baloo" width="100%" alt="LeetCode" />
+          <img src="https://leetcard.jacoblin.cool/Rahul_Pundhir?theme=dark&font=baloo" width="110%" alt="LeetCode" />
         </a>
       </td>
-      <td width="50%" align="center">
+
+      <!-- GFG -->
+      <td width="40%" align="center">
         <a href="https://www.geeksforgeeks.org/profile/rahulpundhir">
-          <img src="https://gfgstatscard.vercel.app/rahulpundhir" width="100%" 
+          <img src="https://gfgstatscard.vercel.app/rahulpundhir" width="95%" 
                onerror="this.src='https://img.shields.io/badge/GeeksforGeeks-rahulpundhir-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white';" alt="GFG" />
         </a>
       </td>
@@ -82,15 +85,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulpundhir007&show_icons=true&theme=midnight-purple"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=rahulpundhir007&theme=midnight-purple"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulpundhir007&theme=react-dark&hide_border=true" alt="Contribution Graph" />
@@ -106,7 +100,9 @@
 ---
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thank+You+for+Visiting+My+Profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thank+You+for+Visiting+My+Profile" alt="Typing SVG" />
+</a>
 </p>
 
 ⭐ *Star* some repositories if you find them useful! Happy Coding! 🚀
