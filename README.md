@@ -55,7 +55,7 @@
 <div align="center">
 
   <!-- ✅ YOUR IMAGE ADDED -->
-  <img src="assets/streak.png" width="80%" alt="Streak Stats"/>
+  <img src="https://camo.githubusercontent.com/3a49e8eff5e87745f238b1f7e80b34b95cc01b7b067d8b0f78c9517d2ff0b746/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d65696768742e76657263656c2e6170703f757365723d7072697975753239267468656d653d6d69646e696768742d707572706c65" width="80%" alt="Streak Stats"/>
 
   <br/><br/>
 
