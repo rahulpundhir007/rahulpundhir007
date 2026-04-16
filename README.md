@@ -58,23 +58,22 @@
 
   <br/><br/>
 
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://leetcode.com/rahul_pundhir">
-          <img src="https://leetcard.jacoblin.cool/rahul_pundhir?theme=dark&font=baloo" width="110%" alt="LeetCode" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://www.geeksforgeeks.org/profile/rahulpundhir">
-          <img src="https://gfgstatscard.vercel.app/rahulpundhir" width="110%" 
-               onerror="this.src='https://img.shields.io/badge/GeeksforGeeks-rahulpundhir-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white';" alt="GFG" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-</div>
+ <table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://leetcode.com/rahul_pundhir">
+        <img src="https://leetcard.jacoblin.cool/rahul_pundhir?theme=dark&font=baloo&ext=heatmap" 
+             height="250px" alt="LeetCode" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.geeksforgeeks.org/profile/rahulpundhir">
+        <img src="https://gfgstatscard.vercel.app/rahulpundhir" 
+             height="250px" alt="GFG" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
