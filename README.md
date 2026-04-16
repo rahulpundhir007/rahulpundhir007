@@ -50,42 +50,27 @@
 
 ---
 
+## 📊 Coding Profiles & Stats
 ## 📊 Competitive Programming Stats
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://leetcode.com/u/Rahul_Pundhir/">
+          <img src="https://leetcard.jacoblin.cool/Rahul_Pundhir?theme=dark&font=baloo" width="100%" alt="LeetCode" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://www.geeksforgeeks.org/profile/rahulpundhir">
+          <img src="https://gfgstatscard.vercel.app/rahulpundhir" width="100%" 
+               onerror="this.src='https://img.shields.io/badge/GeeksforGeeks-rahulpundhir-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white';" alt="GFG" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### 🔸 LeetCode
-<a href="https://leetcode.com/u/Rahul_Pundhir/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Rahul_Pundhir-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<br/>
-
-<img src="https://leetcard.jacoblin.cool/Rahul_Pundhir?theme=light&font=baloo"/>
-
-</td>
-
-<td align="center" width="50%">
-
-### 🟢 GeeksforGeeks
-<a href="https://www.geeksforgeeks.org/profile/rahulpundhir" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Rahul_Pundhir-green?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<br/>
-
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=rahulpundhir"/>
-
-</td>
-
-</tr>
-</table>
-
+  <br/>
 </div>
 
 ---
